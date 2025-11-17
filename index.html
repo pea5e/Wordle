@@ -26,6 +26,7 @@
         ul{
             list-style-type:  none;
             padding: 0;
+            margin: 0;
         }
         .attempt{
             text-decoration: none;
@@ -39,7 +40,8 @@
             display: inline-block;
         }
         @media (max-width: 600px) {
-           .letter{width: 100px;height: 100px;}
+            .sentence{font-size: 40px;}
+           .letter{width: 10vw;height: 10vw;}
             }
     </style>
 </head>
@@ -3950,7 +3952,7 @@
                 ]
     </script>
     <script>
-        document.write
+        console.log("virtualKeyboard" in navigator);
         if ("virtualKeyboard" in navigator) {
             navigator.virtualKeyboard.overlaysContent = true;
             }
