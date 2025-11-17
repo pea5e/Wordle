@@ -1,0 +1,3902 @@
+[
+    {
+        "word": "scowl",
+        "score": 116033
+    },
+    {
+        "word": "ardor",
+        "score": 114033
+    },
+    {
+        "word": "sough",
+        "score": 94030
+    },
+    {
+        "word": "amble",
+        "score": 85037
+    },
+    {
+        "word": "sneer",
+        "score": 85036
+    },
+    {
+        "word": "snarl",
+        "score": 81037
+    },
+    {
+        "word": "adept",
+        "score": 70043
+    },
+    {
+        "word": "aloof",
+        "score": 67040
+    },
+    {
+        "word": "scorn",
+        "score": 67035
+    },
+    {
+        "word": "sharp",
+        "score": 61064
+    },
+    {
+        "word": "snort",
+        "score": 61046
+    },
+    {
+        "word": "ample",
+        "score": 56039
+    },
+    {
+        "word": "pious",
+        "score": 56039
+    },
+    {
+        "word": "power",
+        "score": 55092
+    },
+    {
+        "word": "shift",
+        "score": 52059
+    },
+    {
+        "word": "scoff",
+        "score": 52036
+    },
+    {
+        "word": "surge",
+        "score": 51059
+    },
+    {
+        "word": "acute",
+        "score": 48084
+    },
+    {
+        "word": "assay",
+        "score": 47058
+    },
+    {
+        "word": "shade",
+        "score": 47051
+    },
+    {
+        "word": "poise",
+        "score": 45050
+    },
+    {
+        "word": "abide",
+        "score": 45042
+    },
+    {
+        "word": "angst",
+        "score": 45037
+    },
+    {
+        "word": "pitch",
+        "score": 43103
+    },
+    {
+        "word": "agony",
+        "score": 43044
+    },
+    {
+        "word": "acrid",
+        "score": 42044
+    },
+    {
+        "word": "avail",
+        "score": 42043
+    },
+    {
+        "word": "snide",
+        "score": 41036
+    },
+    {
+        "word": "ambit",
+        "score": 40037
+    },
+    {
+        "word": "plume",
+        "score": 39049
+    },
+    {
+        "word": "amend",
+        "score": 39043
+    },
+    {
+        "word": "probe",
+        "score": 38063
+    },
+    {
+        "word": "plump",
+        "score": 37036
+    },
+    {
+        "word": "surly",
+        "score": 37033
+    },
+    {
+        "word": "azure",
+        "score": 36046
+    },
+    {
+        "word": "place",
+        "score": 35054
+    },
+    {
+        "word": "plain",
+        "score": 35052
+    },
+    {
+        "word": "sober",
+        "score": 35040
+    },
+    {
+        "word": "point",
+        "score": 34102
+    },
+    {
+        "word": "sudor",
+        "score": 34021
+    },
+    {
+        "word": "snark",
+        "score": 34019
+    },
+    {
+        "word": "abyss",
+        "score": 33045
+    },
+    {
+        "word": "suave",
+        "score": 33037
+    },
+    {
+        "word": "allay",
+        "score": 33034
+    },
+    {
+        "word": "axiom",
+        "score": 32051
+    },
+    {
+        "word": "abate",
+        "score": 32049
+    },
+    {
+        "word": "pride",
+        "score": 32047
+    },
+    {
+        "word": "scope",
+        "score": 31065
+    },
+    {
+        "word": "prime",
+        "score": 31061
+    },
+    {
+        "word": "shape",
+        "score": 31055
+    },
+    {
+        "word": "proud",
+        "score": 31046
+    },
+    {
+        "word": "peril",
+        "score": 31039
+    },
+    {
+        "word": "sorry",
+        "score": 31039
+    },
+    {
+        "word": "piety",
+        "score": 31038
+    },
+    {
+        "word": "scold",
+        "score": 31038
+    },
+    {
+        "word": "anima",
+        "score": 31036
+    },
+    {
+        "word": "antic",
+        "score": 31028
+    },
+    {
+        "word": "atlas",
+        "score": 30065
+    },
+    {
+        "word": "alien",
+        "score": 30055
+    },
+    {
+        "word": "sense",
+        "score": 30055
+    },
+    {
+        "word": "short",
+        "score": 29072
+    },
+    {
+        "word": "shaft",
+        "score": 29064
+    },
+    {
+        "word": "alter",
+        "score": 29046
+    },
+    {
+        "word": "aegis",
+        "score": 29042
+    },
+    {
+        "word": "savor",
+        "score": 29032
+    },
+    {
+        "word": "altar",
+        "score": 28056
+    },
+    {
+        "word": "sheer",
+        "score": 28046
+    },
+    {
+        "word": "apply",
+        "score": 28042
+    },
+    {
+        "word": "silly",
+        "score": 28041
+    },
+    {
+        "word": "scant",
+        "score": 28036
+    },
+    {
+        "word": "abhor",
+        "score": 28034
+    },
+    {
+        "word": "augur",
+        "score": 27040
+    },
+    {
+        "word": "preen",
+        "score": 27035
+    },
+    {
+        "word": "asset",
+        "score": 26064
+    },
+    {
+        "word": "salve",
+        "score": 26043
+    },
+    {
+        "word": "petty",
+        "score": 26038
+    },
+    {
+        "word": "ashen",
+        "score": 26034
+    },
+    {
+        "word": "sissy",
+        "score": 26030
+    },
+    {
+        "word": "annex",
+        "score": 25044
+    },
+    {
+        "word": "shoal",
+        "score": 25044
+    },
+    {
+        "word": "sated",
+        "score": 25018
+    },
+    {
+        "word": "agent",
+        "score": 24088
+    },
+    {
+        "word": "score",
+        "score": 24071
+    },
+    {
+        "word": "sound",
+        "score": 24068
+    },
+    {
+        "word": "pivot",
+        "score": 24058
+    },
+    {
+        "word": "alert",
+        "score": 24052
+    },
+    {
+        "word": "peach",
+        "score": 24048
+    },
+    {
+        "word": "perch",
+        "score": 24045
+    },
+    {
+        "word": "privy",
+        "score": 24044
+    },
+    {
+        "word": "scion",
+        "score": 24042
+    },
+    {
+        "word": "awful",
+        "score": 24039
+    },
+    {
+        "word": "scree",
+        "score": 24035
+    },
+    {
+        "word": "amity",
+        "score": 24030
+    },
+    {
+        "word": "algid",
+        "score": 24030
+    },
+    {
+        "word": "amber",
+        "score": 23059
+    },
+    {
+        "word": "piece",
+        "score": 23057
+    },
+    {
+        "word": "anger",
+        "score": 23045
+    },
+    {
+        "word": "sable",
+        "score": 23044
+    },
+    {
+        "word": "aware",
+        "score": 23038
+    },
+    {
+        "word": "sneak",
+        "score": 23038
+    },
+    {
+        "word": "acerb",
+        "score": 23026
+    },
+    {
+        "word": "snipe",
+        "score": 22043
+    },
+    {
+        "word": "scour",
+        "score": 22042
+    },
+    {
+        "word": "shame",
+        "score": 22040
+    },
+    {
+        "word": "saucy",
+        "score": 22037
+    },
+    {
+        "word": "adage",
+        "score": 22036
+    },
+    {
+        "word": "arise",
+        "score": 22036
+    },
+    {
+        "word": "avert",
+        "score": 22034
+    },
+    {
+        "word": "savvy",
+        "score": 22033
+    },
+    {
+        "word": "shell",
+        "score": 21073
+    },
+    {
+        "word": "solid",
+        "score": 21069
+    },
+    {
+        "word": "array",
+        "score": 21060
+    },
+    {
+        "word": "party",
+        "score": 21059
+    },
+    {
+        "word": "abuse",
+        "score": 21054
+    },
+    {
+        "word": "shank",
+        "score": 21052
+    },
+    {
+        "word": "scrap",
+        "score": 21047
+    },
+    {
+        "word": "prior",
+        "score": 21047
+    },
+    {
+        "word": "avoid",
+        "score": 21046
+    },
+    {
+        "word": "abode",
+        "score": 21041
+    },
+    {
+        "word": "argus",
+        "score": 21039
+    },
+    {
+        "word": "pussy",
+        "score": 21038
+    },
+    {
+        "word": "plaza",
+        "score": 21034
+    },
+    {
+        "word": "pesky",
+        "score": 21033
+    },
+    {
+        "word": "shock",
+        "score": 20068
+    },
+    {
+        "word": "panic",
+        "score": 20058
+    },
+    {
+        "word": "actor",
+        "score": 20047
+    },
+    {
+        "word": "admit",
+        "score": 20044
+    },
+    {
+        "word": "allow",
+        "score": 20041
+    },
+    {
+        "word": "annul",
+        "score": 20040
+    },
+    {
+        "word": "prick",
+        "score": 20040
+    },
+    {
+        "word": "sinew",
+        "score": 20038
+    },
+    {
+        "word": "apace",
+        "score": 20029
+    },
+    {
+        "word": "angel",
+        "score": 19068
+    },
+    {
+        "word": "proxy",
+        "score": 19068
+    },
+    {
+        "word": "press",
+        "score": 19055
+    },
+    {
+        "word": "arbor",
+        "score": 19047
+    },
+    {
+        "word": "aroma",
+        "score": 19047
+    },
+    {
+        "word": "pique",
+        "score": 19045
+    },
+    {
+        "word": "snuff",
+        "score": 19045
+    },
+    {
+        "word": "scamp",
+        "score": 19041
+    },
+    {
+        "word": "prowl",
+        "score": 19037
+    },
+    {
+        "word": "agora",
+        "score": 19036
+    },
+    {
+        "word": "plush",
+        "score": 19036
+    },
+    {
+        "word": "posit",
+        "score": 19034
+    },
+    {
+        "word": "sappy",
+        "score": 19033
+    },
+    {
+        "word": "antsy",
+        "score": 19023
+    },
+    {
+        "word": "prone",
+        "score": 18052
+    },
+    {
+        "word": "scene",
+        "score": 18051
+    },
+    {
+        "word": "aisle",
+        "score": 18050
+    },
+    {
+        "word": "prose",
+        "score": 18047
+    },
+    {
+        "word": "siren",
+        "score": 18044
+    },
+    {
+        "word": "prove",
+        "score": 18044
+    },
+    {
+        "word": "aster",
+        "score": 18043
+    },
+    {
+        "word": "parry",
+        "score": 18039
+    },
+    {
+        "word": "agile",
+        "score": 18036
+    },
+    {
+        "word": "adorn",
+        "score": 18035
+    },
+    {
+        "word": "addle",
+        "score": 18031
+    },
+    {
+        "word": "pinch",
+        "score": 17048
+    },
+    {
+        "word": "paddy",
+        "score": 17039
+    },
+    {
+        "word": "scoot",
+        "score": 17038
+    },
+    {
+        "word": "phony",
+        "score": 17036
+    },
+    {
+        "word": "aught",
+        "score": 17034
+    },
+    {
+        "word": "sassy",
+        "score": 17029
+    },
+    {
+        "word": "asper",
+        "score": 17025
+    },
+    {
+        "word": "abysm",
+        "score": 17023
+    },
+    {
+        "word": "amain",
+        "score": 17022
+    },
+    {
+        "word": "apple",
+        "score": 16067
+    },
+    {
+        "word": "scent",
+        "score": 16046
+    },
+    {
+        "word": "sieve",
+        "score": 16046
+    },
+    {
+        "word": "snare",
+        "score": 16046
+    },
+    {
+        "word": "pylon",
+        "score": 16045
+    },
+    {
+        "word": "scout",
+        "score": 16045
+    },
+    {
+        "word": "polar",
+        "score": 16044
+    },
+    {
+        "word": "adapt",
+        "score": 16043
+    },
+    {
+        "word": "shout",
+        "score": 16040
+    },
+    {
+        "word": "sally",
+        "score": 16038
+    },
+    {
+        "word": "shove",
+        "score": 16038
+    },
+    {
+        "word": "amour",
+        "score": 16033
+    },
+    {
+        "word": "pseud",
+        "score": 16029
+    },
+    {
+        "word": "prill",
+        "score": 16020
+    },
+    {
+        "word": "aulic",
+        "score": 16018
+    },
+    {
+        "word": "perdu",
+        "score": 16018
+    },
+    {
+        "word": "pound",
+        "score": 15064
+    },
+    {
+        "word": "pearl",
+        "score": 15062
+    },
+    {
+        "word": "sight",
+        "score": 15061
+    },
+    {
+        "word": "shear",
+        "score": 15059
+    },
+    {
+        "word": "shake",
+        "score": 15057
+    },
+    {
+        "word": "serve",
+        "score": 15056
+    },
+    {
+        "word": "shoot",
+        "score": 15056
+    },
+    {
+        "word": "agape",
+        "score": 15045
+    },
+    {
+        "word": "auger",
+        "score": 15045
+    },
+    {
+        "word": "adopt",
+        "score": 15042
+    },
+    {
+        "word": "poach",
+        "score": 15042
+    },
+    {
+        "word": "angry",
+        "score": 15039
+    },
+    {
+        "word": "shrub",
+        "score": 15038
+    },
+    {
+        "word": "allot",
+        "score": 15037
+    },
+    {
+        "word": "adore",
+        "score": 15036
+    },
+    {
+        "word": "pithy",
+        "score": 15033
+    },
+    {
+        "word": "apsis",
+        "score": 15030
+    },
+    {
+        "word": "astar",
+        "score": 15005
+    },
+    {
+        "word": "proof",
+        "score": 14077
+    },
+    {
+        "word": "alias",
+        "score": 14062
+    },
+    {
+        "word": "alloy",
+        "score": 14061
+    },
+    {
+        "word": "pupil",
+        "score": 14053
+    },
+    {
+        "word": "agate",
+        "score": 14050
+    },
+    {
+        "word": "plumb",
+        "score": 14047
+    },
+    {
+        "word": "about",
+        "score": 14046
+    },
+    {
+        "word": "siege",
+        "score": 14046
+    },
+    {
+        "word": "adder",
+        "score": 14043
+    },
+    {
+        "word": "shine",
+        "score": 14043
+    },
+    {
+        "word": "shaky",
+        "score": 14036
+    },
+    {
+        "word": "shawl",
+        "score": 14036
+    },
+    {
+        "word": "souse",
+        "score": 14035
+    },
+    {
+        "word": "sidle",
+        "score": 14033
+    },
+    {
+        "word": "showy",
+        "score": 14033
+    },
+    {
+        "word": "amply",
+        "score": 14027
+    },
+    {
+        "word": "pushy",
+        "score": 14024
+    },
+    {
+        "word": "appui",
+        "score": 14011
+    },
+    {
+        "word": "phase",
+        "score": 13075
+    },
+    {
+        "word": "pulse",
+        "score": 13066
+    },
+    {
+        "word": "shunt",
+        "score": 13054
+    },
+    {
+        "word": "satyr",
+        "score": 13045
+    },
+    {
+        "word": "alarm",
+        "score": 13044
+    },
+    {
+        "word": "scape",
+        "score": 13041
+    },
+    {
+        "word": "parse",
+        "score": 13040
+    },
+    {
+        "word": "aspen",
+        "score": 13038
+    },
+    {
+        "word": "atone",
+        "score": 13037
+    },
+    {
+        "word": "shady",
+        "score": 13036
+    },
+    {
+        "word": "alike",
+        "score": 13035
+    },
+    {
+        "word": "pixie",
+        "score": 13035
+    },
+    {
+        "word": "prude",
+        "score": 13035
+    },
+    {
+        "word": "amiss",
+        "score": 13034
+    },
+    {
+        "word": "prise",
+        "score": 13033
+    },
+    {
+        "word": "plunk",
+        "score": 13032
+    },
+    {
+        "word": "prate",
+        "score": 13032
+    },
+    {
+        "word": "auric",
+        "score": 13031
+    },
+    {
+        "word": "potty",
+        "score": 13030
+    },
+    {
+        "word": "scrag",
+        "score": 13029
+    },
+    {
+        "word": "pursy",
+        "score": 13026
+    },
+    {
+        "word": "arete",
+        "score": 13023
+    },
+    {
+        "word": "sigil",
+        "score": 13019
+    },
+    {
+        "word": "agita",
+        "score": 13016
+    },
+    {
+        "word": "sithe",
+        "score": 13011
+    },
+    {
+        "word": "athel",
+        "score": 13006
+    },
+    {
+        "word": "patch",
+        "score": 12065
+    },
+    {
+        "word": "screw",
+        "score": 12061
+    },
+    {
+        "word": "pilot",
+        "score": 12059
+    },
+    {
+        "word": "purse",
+        "score": 12043
+    },
+    {
+        "word": "pansy",
+        "score": 12042
+    },
+    {
+        "word": "align",
+        "score": 12039
+    },
+    {
+        "word": "paean",
+        "score": 12039
+    },
+    {
+        "word": "sheen",
+        "score": 12039
+    },
+    {
+        "word": "shirk",
+        "score": 12039
+    },
+    {
+        "word": "amass",
+        "score": 12035
+    },
+    {
+        "word": "sully",
+        "score": 12034
+    },
+    {
+        "word": "askew",
+        "score": 12034
+    },
+    {
+        "word": "scary",
+        "score": 12031
+    },
+    {
+        "word": "paseo",
+        "score": 12023
+    },
+    {
+        "word": "phren",
+        "score": 12015
+    },
+    {
+        "word": "perse",
+        "score": 12014
+    },
+    {
+        "word": "aiger",
+        "score": 12007
+    },
+    {
+        "word": "arage",
+        "score": 12002
+    },
+    {
+        "word": "augle",
+        "score": 12002
+    },
+    {
+        "word": "audit",
+        "score": 11069
+    },
+    {
+        "word": "scrub",
+        "score": 11049
+    },
+    {
+        "word": "suite",
+        "score": 11047
+    },
+    {
+        "word": "prize",
+        "score": 11046
+    },
+    {
+        "word": "pluck",
+        "score": 11044
+    },
+    {
+        "word": "scrim",
+        "score": 11041
+    },
+    {
+        "word": "argot",
+        "score": 11033
+    },
+    {
+        "word": "adieu",
+        "score": 11033
+    },
+    {
+        "word": "pasty",
+        "score": 11033
+    },
+    {
+        "word": "argos",
+        "score": 11029
+    },
+    {
+        "word": "anile",
+        "score": 11029
+    },
+    {
+        "word": "plash",
+        "score": 11028
+    },
+    {
+        "word": "proem",
+        "score": 11027
+    },
+    {
+        "word": "anele",
+        "score": 11025
+    },
+    {
+        "word": "phyle",
+        "score": 11024
+    },
+    {
+        "word": "parky",
+        "score": 11019
+    },
+    {
+        "word": "acold",
+        "score": 11017
+    },
+    {
+        "word": "avale",
+        "score": 11009
+    },
+    {
+        "word": "anoia",
+        "score": 11006
+    },
+    {
+        "word": "apron",
+        "score": 10066
+    },
+    {
+        "word": "penis",
+        "score": 10057
+    },
+    {
+        "word": "award",
+        "score": 10053
+    },
+    {
+        "word": "after",
+        "score": 10047
+    },
+    {
+        "word": "scarf",
+        "score": 10047
+    },
+    {
+        "word": "alive",
+        "score": 10044
+    },
+    {
+        "word": "scald",
+        "score": 10044
+    },
+    {
+        "word": "supra",
+        "score": 10044
+    },
+    {
+        "word": "aural",
+        "score": 10040
+    },
+    {
+        "word": "shall",
+        "score": 10040
+    },
+    {
+        "word": "salvo",
+        "score": 10039
+    },
+    {
+        "word": "posse",
+        "score": 10039
+    },
+    {
+        "word": "apart",
+        "score": 10037
+    },
+    {
+        "word": "satin",
+        "score": 10037
+    },
+    {
+        "word": "shrew",
+        "score": 10036
+    },
+    {
+        "word": "pinky",
+        "score": 10035
+    },
+    {
+        "word": "poser",
+        "score": 10034
+    },
+    {
+        "word": "amaze",
+        "score": 10034
+    },
+    {
+        "word": "await",
+        "score": 10033
+    },
+    {
+        "word": "awash",
+        "score": 10031
+    },
+    {
+        "word": "abase",
+        "score": 10030
+    },
+    {
+        "word": "abash",
+        "score": 10026
+    },
+    {
+        "word": "ambry",
+        "score": 10020
+    },
+    {
+        "word": "sipid",
+        "score": 10014
+    },
+    {
+        "word": "amped",
+        "score": 10012
+    },
+    {
+        "word": "pogue",
+        "score": 10009
+    },
+    {
+        "word": "alief",
+        "score": 10005
+    },
+    {
+        "word": "akuma",
+        "score": 10003
+    },
+    {
+        "word": "scale",
+        "score": 9090
+    },
+    {
+        "word": "punch",
+        "score": 9061
+    },
+    {
+        "word": "plane",
+        "score": 9060
+    },
+    {
+        "word": "peace",
+        "score": 9054
+    },
+    {
+        "word": "scrip",
+        "score": 9051
+    },
+    {
+        "word": "alibi",
+        "score": 9048
+    },
+    {
+        "word": "prune",
+        "score": 9048
+    },
+    {
+        "word": "ahead",
+        "score": 9047
+    },
+    {
+        "word": "peter",
+        "score": 9047
+    },
+    {
+        "word": "arena",
+        "score": 9046
+    },
+    {
+        "word": "porch",
+        "score": 9044
+    },
+    {
+        "word": "pagan",
+        "score": 9041
+    },
+    {
+        "word": "puppy",
+        "score": 9040
+    },
+    {
+        "word": "shack",
+        "score": 9040
+    },
+    {
+        "word": "shard",
+        "score": 9040
+    },
+    {
+        "word": "silky",
+        "score": 9039
+    },
+    {
+        "word": "shred",
+        "score": 9038
+    },
+    {
+        "word": "shuck",
+        "score": 9038
+    },
+    {
+        "word": "sunny",
+        "score": 9037
+    },
+    {
+        "word": "puffy",
+        "score": 9036
+    },
+    {
+        "word": "snafu",
+        "score": 9036
+    },
+    {
+        "word": "amuse",
+        "score": 9035
+    },
+    {
+        "word": "singe",
+        "score": 9035
+    },
+    {
+        "word": "patsy",
+        "score": 9032
+    },
+    {
+        "word": "snoop",
+        "score": 9031
+    },
+    {
+        "word": "among",
+        "score": 9030
+    },
+    {
+        "word": "ariel",
+        "score": 9030
+    },
+    {
+        "word": "aglow",
+        "score": 9029
+    },
+    {
+        "word": "plebe",
+        "score": 9029
+    },
+    {
+        "word": "arose",
+        "score": 9027
+    },
+    {
+        "word": "scend",
+        "score": 9024
+    },
+    {
+        "word": "aggro",
+        "score": 9023
+    },
+    {
+        "word": "piker",
+        "score": 9022
+    },
+    {
+        "word": "prest",
+        "score": 9020
+    },
+    {
+        "word": "sonsy",
+        "score": 9019
+    },
+    {
+        "word": "aspis",
+        "score": 9014
+    },
+    {
+        "word": "pikey",
+        "score": 9010
+    },
+    {
+        "word": "attle",
+        "score": 9010
+    },
+    {
+        "word": "snirt",
+        "score": 9005
+    },
+    {
+        "word": "passé",
+        "score": 9002
+    },
+    {
+        "word": "snake",
+        "score": 8067
+    },
+    {
+        "word": "angle",
+        "score": 8059
+    },
+    {
+        "word": "plant",
+        "score": 8058
+    },
+    {
+        "word": "alley",
+        "score": 8056
+    },
+    {
+        "word": "prism",
+        "score": 8056
+    },
+    {
+        "word": "scoop",
+        "score": 8055
+    },
+    {
+        "word": "shore",
+        "score": 8052
+    },
+    {
+        "word": "anvil",
+        "score": 8052
+    },
+    {
+        "word": "purge",
+        "score": 8051
+    },
+    {
+        "word": "solar",
+        "score": 8044
+    },
+    {
+        "word": "abbey",
+        "score": 8042
+    },
+    {
+        "word": "atoll",
+        "score": 8040
+    },
+    {
+        "word": "piano",
+        "score": 8040
+    },
+    {
+        "word": "abbot",
+        "score": 8039
+    },
+    {
+        "word": "alder",
+        "score": 8038
+    },
+    {
+        "word": "argue",
+        "score": 8038
+    },
+    {
+        "word": "aside",
+        "score": 8038
+    },
+    {
+        "word": "sheaf",
+        "score": 8038
+    },
+    {
+        "word": "patio",
+        "score": 8036
+    },
+    {
+        "word": "plait",
+        "score": 8036
+    },
+    {
+        "word": "again",
+        "score": 8035
+    },
+    {
+        "word": "annoy",
+        "score": 8035
+    },
+    {
+        "word": "proto",
+        "score": 8033
+    },
+    {
+        "word": "sapid",
+        "score": 8033
+    },
+    {
+        "word": "since",
+        "score": 8033
+    },
+    {
+        "word": "pudgy",
+        "score": 8030
+    },
+    {
+        "word": "perky",
+        "score": 8029
+    },
+    {
+        "word": "shoat",
+        "score": 8029
+    },
+    {
+        "word": "soppy",
+        "score": 8029
+    },
+    {
+        "word": "aglet",
+        "score": 8027
+    },
+    {
+        "word": "poesy",
+        "score": 8026
+    },
+    {
+        "word": "prink",
+        "score": 8026
+    },
+    {
+        "word": "appal",
+        "score": 8024
+    },
+    {
+        "word": "asked",
+        "score": 8022
+    },
+    {
+        "word": "atilt",
+        "score": 8022
+    },
+    {
+        "word": "adobo",
+        "score": 8021
+    },
+    {
+        "word": "aegir",
+        "score": 8017
+    },
+    {
+        "word": "arion",
+        "score": 8016
+    },
+    {
+        "word": "poncy",
+        "score": 8010
+    },
+    {
+        "word": "awkly",
+        "score": 8009
+    },
+    {
+        "word": "aeger",
+        "score": 8006
+    },
+    {
+        "word": "snerk",
+        "score": 8003
+    },
+    {
+        "word": "abade",
+        "score": 8002
+    },
+    {
+        "word": "paper",
+        "score": 7071
+    },
+    {
+        "word": "plate",
+        "score": 7067
+    },
+    {
+        "word": "panel",
+        "score": 7062
+    },
+    {
+        "word": "price",
+        "score": 7059
+    },
+    {
+        "word": "sheet",
+        "score": 7055
+    },
+    {
+        "word": "album",
+        "score": 7043
+    },
+    {
+        "word": "audio",
+        "score": 7043
+    },
+    {
+        "word": "anise",
+        "score": 7041
+    },
+    {
+        "word": "snout",
+        "score": 7041
+    },
+    {
+        "word": "phial",
+        "score": 7040
+    },
+    {
+        "word": "pinna",
+        "score": 7040
+    },
+    {
+        "word": "alone",
+        "score": 7039
+    },
+    {
+        "word": "solve",
+        "score": 7039
+    },
+    {
+        "word": "psalm",
+        "score": 7037
+    },
+    {
+        "word": "sibyl",
+        "score": 7034
+    },
+    {
+        "word": "scrum",
+        "score": 7034
+    },
+    {
+        "word": "soggy",
+        "score": 7033
+    },
+    {
+        "word": "pleat",
+        "score": 7032
+    },
+    {
+        "word": "amuck",
+        "score": 7032
+    },
+    {
+        "word": "ascot",
+        "score": 7032
+    },
+    {
+        "word": "shiny",
+        "score": 7032
+    },
+    {
+        "word": "aback",
+        "score": 7031
+    },
+    {
+        "word": "pooch",
+        "score": 7031
+    },
+    {
+        "word": "prole",
+        "score": 7030
+    },
+    {
+        "word": "primp",
+        "score": 7029
+    },
+    {
+        "word": "paleo",
+        "score": 7028
+    },
+    {
+        "word": "solon",
+        "score": 7028
+    },
+    {
+        "word": "pinko",
+        "score": 7027
+    },
+    {
+        "word": "snell",
+        "score": 7027
+    },
+    {
+        "word": "adust",
+        "score": 7027
+    },
+    {
+        "word": "aptly",
+        "score": 7026
+    },
+    {
+        "word": "prang",
+        "score": 7024
+    },
+    {
+        "word": "aesir",
+        "score": 7022
+    },
+    {
+        "word": "peppy",
+        "score": 7022
+    },
+    {
+        "word": "summa",
+        "score": 7021
+    },
+    {
+        "word": "shite",
+        "score": 7020
+    },
+    {
+        "word": "arsis",
+        "score": 7019
+    },
+    {
+        "word": "achoo",
+        "score": 7016
+    },
+    {
+        "word": "perks",
+        "score": 7016
+    },
+    {
+        "word": "atter",
+        "score": 7011
+    },
+    {
+        "word": "pissy",
+        "score": 7011
+    },
+    {
+        "word": "adrip",
+        "score": 7009
+    },
+    {
+        "word": "sobek",
+        "score": 7008
+    },
+    {
+        "word": "alita",
+        "score": 7006
+    },
+    {
+        "word": "acies",
+        "score": 7005
+    },
+    {
+        "word": "atene",
+        "score": 7003
+    },
+    {
+        "word": "pudsy",
+        "score": 7003
+    },
+    {
+        "word": "alpha",
+        "score": 6070
+    },
+    {
+        "word": "share",
+        "score": 6066
+    },
+    {
+        "word": "paste",
+        "score": 6062
+    },
+    {
+        "word": "aging",
+        "score": 6060
+    },
+    {
+        "word": "sheep",
+        "score": 6058
+    },
+    {
+        "word": "scalp",
+        "score": 6057
+    },
+    {
+        "word": "print",
+        "score": 6054
+    },
+    {
+        "word": "adult",
+        "score": 6050
+    },
+    {
+        "word": "palsy",
+        "score": 6050
+    },
+    {
+        "word": "above",
+        "score": 6044
+    },
+    {
+        "word": "sniff",
+        "score": 6044
+    },
+    {
+        "word": "pause",
+        "score": 6043
+    },
+    {
+        "word": "piper",
+        "score": 6043
+    },
+    {
+        "word": "armor",
+        "score": 6042
+    },
+    {
+        "word": "salad",
+        "score": 6042
+    },
+    {
+        "word": "shire",
+        "score": 6040
+    },
+    {
+        "word": "aspic",
+        "score": 6039
+    },
+    {
+        "word": "aloha",
+        "score": 6037
+    },
+    {
+        "word": "salon",
+        "score": 6037
+    },
+    {
+        "word": "prank",
+        "score": 6036
+    },
+    {
+        "word": "aerie",
+        "score": 6034
+    },
+    {
+        "word": "scram",
+        "score": 6034
+    },
+    {
+        "word": "avian",
+        "score": 6033
+    },
+    {
+        "word": "scuff",
+        "score": 6033
+    },
+    {
+        "word": "situs",
+        "score": 6033
+    },
+    {
+        "word": "abeam",
+        "score": 6032
+    },
+    {
+        "word": "parch",
+        "score": 6031
+    },
+    {
+        "word": "axial",
+        "score": 6030
+    },
+    {
+        "word": "paten",
+        "score": 6030
+    },
+    {
+        "word": "snarf",
+        "score": 6030
+    },
+    {
+        "word": "socle",
+        "score": 6030
+    },
+    {
+        "word": "ament",
+        "score": 6029
+    },
+    {
+        "word": "snick",
+        "score": 6028
+    },
+    {
+        "word": "sutra",
+        "score": 6028
+    },
+    {
+        "word": "agger",
+        "score": 6027
+    },
+    {
+        "word": "pukka",
+        "score": 6027
+    },
+    {
+        "word": "sooth",
+        "score": 6026
+    },
+    {
+        "word": "abend",
+        "score": 6025
+    },
+    {
+        "word": "arian",
+        "score": 6025
+    },
+    {
+        "word": "admix",
+        "score": 6024
+    },
+    {
+        "word": "prima",
+        "score": 6024
+    },
+    {
+        "word": "argal",
+        "score": 6023
+    },
+    {
+        "word": "atomy",
+        "score": 6023
+    },
+    {
+        "word": "atman",
+        "score": 6021
+    },
+    {
+        "word": "piled",
+        "score": 6021
+    },
+    {
+        "word": "peers",
+        "score": 6020
+    },
+    {
+        "word": "amort",
+        "score": 6020
+    },
+    {
+        "word": "apery",
+        "score": 6020
+    },
+    {
+        "word": "aider",
+        "score": 6019
+    },
+    {
+        "word": "aurum",
+        "score": 6018
+    },
+    {
+        "word": "arced",
+        "score": 6017
+    },
+    {
+        "word": "putid",
+        "score": 6016
+    },
+    {
+        "word": "psyop",
+        "score": 6015
+    },
+    {
+        "word": "pangs",
+        "score": 6014
+    },
+    {
+        "word": "shend",
+        "score": 6014
+    },
+    {
+        "word": "sorta",
+        "score": 6014
+    },
+    {
+        "word": "anear",
+        "score": 6013
+    },
+    {
+        "word": "scraw",
+        "score": 6013
+    },
+    {
+        "word": "snift",
+        "score": 6012
+    },
+    {
+        "word": "agasp",
+        "score": 6011
+    },
+    {
+        "word": "scard",
+        "score": 6011
+    },
+    {
+        "word": "ploys",
+        "score": 6009
+    },
+    {
+        "word": "allee",
+        "score": 6008
+    },
+    {
+        "word": "shiro",
+        "score": 6007
+    },
+    {
+        "word": "senex",
+        "score": 6007
+    },
+    {
+        "word": "amaru",
+        "score": 6004
+    },
+    {
+        "word": "aevum",
+        "score": 6004
+    },
+    {
+        "word": "amene",
+        "score": 6004
+    },
+    {
+        "word": "pensy",
+        "score": 6004
+    },
+    {
+        "word": "sowwy",
+        "score": 6004
+    },
+    {
+        "word": "shiok",
+        "score": 6003
+    },
+    {
+        "word": "sunya",
+        "score": 6003
+    },
+    {
+        "word": "aorta",
+        "score": 5055
+    },
+    {
+        "word": "saint",
+        "score": 5054
+    },
+    {
+        "word": "super",
+        "score": 5053
+    },
+    {
+        "word": "acorn",
+        "score": 5048
+    },
+    {
+        "word": "sauce",
+        "score": 5048
+    },
+    {
+        "word": "affix",
+        "score": 5047
+    },
+    {
+        "word": "shave",
+        "score": 5047
+    },
+    {
+        "word": "plead",
+        "score": 5041
+    },
+    {
+        "word": "pouch",
+        "score": 5040
+    },
+    {
+        "word": "agree",
+        "score": 5039
+    },
+    {
+        "word": "awake",
+        "score": 5039
+    },
+    {
+        "word": "penal",
+        "score": 5039
+    },
+    {
+        "word": "scull",
+        "score": 5038
+    },
+    {
+        "word": "pubis",
+        "score": 5036
+    },
+    {
+        "word": "aloft",
+        "score": 5035
+    },
+    {
+        "word": "plage",
+        "score": 5035
+    },
+    {
+        "word": "petit",
+        "score": 5034
+    },
+    {
+        "word": "arras",
+        "score": 5033
+    },
+    {
+        "word": "aloud",
+        "score": 5033
+    },
+    {
+        "word": "shush",
+        "score": 5031
+    },
+    {
+        "word": "piste",
+        "score": 5030
+    },
+    {
+        "word": "azoic",
+        "score": 5029
+    },
+    {
+        "word": "added",
+        "score": 5027
+    },
+    {
+        "word": "punic",
+        "score": 5027
+    },
+    {
+        "word": "acres",
+        "score": 5026
+    },
+    {
+        "word": "pawky",
+        "score": 5026
+    },
+    {
+        "word": "saros",
+        "score": 5026
+    },
+    {
+        "word": "arcus",
+        "score": 5025
+    },
+    {
+        "word": "awoke",
+        "score": 5025
+    },
+    {
+        "word": "pongo",
+        "score": 5024
+    },
+    {
+        "word": "prosy",
+        "score": 5024
+    },
+    {
+        "word": "astir",
+        "score": 5023
+    },
+    {
+        "word": "asura",
+        "score": 5023
+    },
+    {
+        "word": "ampul",
+        "score": 5021
+    },
+    {
+        "word": "passe",
+        "score": 5021
+    },
+    {
+        "word": "posed",
+        "score": 5021
+    },
+    {
+        "word": "solus",
+        "score": 5020
+    },
+    {
+        "word": "pepsi",
+        "score": 5018
+    },
+    {
+        "word": "simar",
+        "score": 5018
+    },
+    {
+        "word": "aviso",
+        "score": 5016
+    },
+    {
+        "word": "pudic",
+        "score": 5016
+    },
+    {
+        "word": "aggie",
+        "score": 5015
+    },
+    {
+        "word": "panne",
+        "score": 5015
+    },
+    {
+        "word": "shiel",
+        "score": 5014
+    },
+    {
+        "word": "agrin",
+        "score": 5014
+    },
+    {
+        "word": "amate",
+        "score": 5014
+    },
+    {
+        "word": "avers",
+        "score": 5014
+    },
+    {
+        "word": "prods",
+        "score": 5014
+    },
+    {
+        "word": "adown",
+        "score": 5013
+    },
+    {
+        "word": "pervy",
+        "score": 5012
+    },
+    {
+        "word": "seric",
+        "score": 5011
+    },
+    {
+        "word": "arrha",
+        "score": 5011
+    },
+    {
+        "word": "pross",
+        "score": 5011
+    },
+    {
+        "word": "shash",
+        "score": 5011
+    },
+    {
+        "word": "snite",
+        "score": 5011
+    },
+    {
+        "word": "suant",
+        "score": 5011
+    },
+    {
+        "word": "sucky",
+        "score": 5011
+    },
+    {
+        "word": "suent",
+        "score": 5011
+    },
+    {
+        "word": "pusil",
+        "score": 5010
+    },
+    {
+        "word": "alkie",
+        "score": 5010
+    },
+    {
+        "word": "avile",
+        "score": 5010
+    },
+    {
+        "word": "phasm",
+        "score": 5010
+    },
+    {
+        "word": "aband",
+        "score": 5009
+    },
+    {
+        "word": "patte",
+        "score": 5009
+    },
+    {
+        "word": "purty",
+        "score": 5008
+    },
+    {
+        "word": "shonk",
+        "score": 5008
+    },
+    {
+        "word": "shtum",
+        "score": 5006
+    },
+    {
+        "word": "sitch",
+        "score": 5006
+    },
+    {
+        "word": "snipy",
+        "score": 5006
+    },
+    {
+        "word": "affor",
+        "score": 5005
+    },
+    {
+        "word": "avine",
+        "score": 5005
+    },
+    {
+        "word": "peice",
+        "score": 5005
+    },
+    {
+        "word": "artha",
+        "score": 5004
+    },
+    {
+        "word": "asway",
+        "score": 5004
+    },
+    {
+        "word": "scear",
+        "score": 5003
+    },
+    {
+        "word": "snice",
+        "score": 5003
+    },
+    {
+        "word": "anoon",
+        "score": 5002
+    },
+    {
+        "word": "paint",
+        "score": 4060
+    },
+    {
+        "word": "satan",
+        "score": 4053
+    },
+    {
+        "word": "ankle",
+        "score": 4047
+    },
+    {
+        "word": "petal",
+        "score": 4047
+    },
+    {
+        "word": "arson",
+        "score": 4045
+    },
+    {
+        "word": "shark",
+        "score": 4045
+    },
+    {
+        "word": "plank",
+        "score": 4042
+    },
+    {
+        "word": "adobe",
+        "score": 4041
+    },
+    {
+        "word": "peony",
+        "score": 4038
+    },
+    {
+        "word": "pygmy",
+        "score": 4038
+    },
+    {
+        "word": "saber",
+        "score": 4037
+    },
+    {
+        "word": "serge",
+        "score": 4037
+    },
+    {
+        "word": "plonk",
+        "score": 4036
+    },
+    {
+        "word": "shawm",
+        "score": 4036
+    },
+    {
+        "word": "saxon",
+        "score": 4035
+    },
+    {
+        "word": "snood",
+        "score": 4034
+    },
+    {
+        "word": "sumac",
+        "score": 4034
+    },
+    {
+        "word": "saver",
+        "score": 4033
+    },
+    {
+        "word": "aaron",
+        "score": 4032
+    },
+    {
+        "word": "asian",
+        "score": 4032
+    },
+    {
+        "word": "attar",
+        "score": 4031
+    },
+    {
+        "word": "abaft",
+        "score": 4031
+    },
+    {
+        "word": "alula",
+        "score": 4031
+    },
+    {
+        "word": "arris",
+        "score": 4031
+    },
+    {
+        "word": "ponce",
+        "score": 4031
+    },
+    {
+        "word": "pokey",
+        "score": 4030
+    },
+    {
+        "word": "sherd",
+        "score": 4030
+    },
+    {
+        "word": "afire",
+        "score": 4029
+    },
+    {
+        "word": "picky",
+        "score": 4029
+    },
+    {
+        "word": "pulpy",
+        "score": 4029
+    },
+    {
+        "word": "sadly",
+        "score": 4029
+    },
+    {
+        "word": "anglo",
+        "score": 4028
+    },
+    {
+        "word": "pyxis",
+        "score": 4028
+    },
+    {
+        "word": "snoot",
+        "score": 4028
+    },
+    {
+        "word": "podgy",
+        "score": 4027
+    },
+    {
+        "word": "apian",
+        "score": 4026
+    },
+    {
+        "word": "pekoe",
+        "score": 4026
+    },
+    {
+        "word": "alamo",
+        "score": 4025
+    },
+    {
+        "word": "agama",
+        "score": 4025
+    },
+    {
+        "word": "peeps",
+        "score": 4025
+    },
+    {
+        "word": "scads",
+        "score": 4025
+    },
+    {
+        "word": "afore",
+        "score": 4024
+    },
+    {
+        "word": "porno",
+        "score": 4024
+    },
+    {
+        "word": "allen",
+        "score": 4023
+    },
+    {
+        "word": "arhat",
+        "score": 4023
+    },
+    {
+        "word": "azoth",
+        "score": 4023
+    },
+    {
+        "word": "paved",
+        "score": 4023
+    },
+    {
+        "word": "shive",
+        "score": 4023
+    },
+    {
+        "word": "avant",
+        "score": 4022
+    },
+    {
+        "word": "agone",
+        "score": 4022
+    },
+    {
+        "word": "asher",
+        "score": 4022
+    },
+    {
+        "word": "assur",
+        "score": 4022
+    },
+    {
+        "word": "sapor",
+        "score": 4022
+    },
+    {
+        "word": "acton",
+        "score": 4021
+    },
+    {
+        "word": "anomy",
+        "score": 4021
+    },
+    {
+        "word": "awing",
+        "score": 4021
+    },
+    {
+        "word": "ploce",
+        "score": 4021
+    },
+    {
+        "word": "polis",
+        "score": 4020
+    },
+    {
+        "word": "safer",
+        "score": 4020
+    },
+    {
+        "word": "pshaw",
+        "score": 4020
+    },
+    {
+        "word": "shlep",
+        "score": 4020
+    },
+    {
+        "word": "soddy",
+        "score": 4020
+    },
+    {
+        "word": "plier",
+        "score": 4019
+    },
+    {
+        "word": "snaps",
+        "score": 4019
+    },
+    {
+        "word": "arden",
+        "score": 4018
+    },
+    {
+        "word": "parle",
+        "score": 4018
+    },
+    {
+        "word": "shoah",
+        "score": 4018
+    },
+    {
+        "word": "athos",
+        "score": 4017
+    },
+    {
+        "word": "agaze",
+        "score": 4017
+    },
+    {
+        "word": "aston",
+        "score": 4017
+    },
+    {
+        "word": "pudge",
+        "score": 4017
+    },
+    {
+        "word": "plink",
+        "score": 4016
+    },
+    {
+        "word": "scrog",
+        "score": 4016
+    },
+    {
+        "word": "aland",
+        "score": 4015
+    },
+    {
+        "word": "soler",
+        "score": 4015
+    },
+    {
+        "word": "antre",
+        "score": 4015
+    },
+    {
+        "word": "shirl",
+        "score": 4015
+    },
+    {
+        "word": "podge",
+        "score": 4014
+    },
+    {
+        "word": "arist",
+        "score": 4013
+    },
+    {
+        "word": "abord",
+        "score": 4012
+    },
+    {
+        "word": "adays",
+        "score": 4012
+    },
+    {
+        "word": "aigre",
+        "score": 4012
+    },
+    {
+        "word": "palus",
+        "score": 4012
+    },
+    {
+        "word": "peery",
+        "score": 4012
+    },
+    {
+        "word": "arche",
+        "score": 4011
+    },
+    {
+        "word": "agast",
+        "score": 4011
+    },
+    {
+        "word": "agued",
+        "score": 4011
+    },
+    {
+        "word": "atimy",
+        "score": 4011
+    },
+    {
+        "word": "payne",
+        "score": 4011
+    },
+    {
+        "word": "pyral",
+        "score": 4011
+    },
+    {
+        "word": "satis",
+        "score": 4011
+    },
+    {
+        "word": "seral",
+        "score": 4011
+    },
+    {
+        "word": "shail",
+        "score": 4011
+    },
+    {
+        "word": "plops",
+        "score": 4010
+    },
+    {
+        "word": "saugh",
+        "score": 4010
+    },
+    {
+        "word": "sonne",
+        "score": 4010
+    },
+    {
+        "word": "suade",
+        "score": 4010
+    },
+    {
+        "word": "askey",
+        "score": 4009
+    },
+    {
+        "word": "purrs",
+        "score": 4009
+    },
+    {
+        "word": "scomm",
+        "score": 4009
+    },
+    {
+        "word": "scyle",
+        "score": 4009
+    },
+    {
+        "word": "adret",
+        "score": 4008
+    },
+    {
+        "word": "arace",
+        "score": 4008
+    },
+    {
+        "word": "ashet",
+        "score": 4008
+    },
+    {
+        "word": "punny",
+        "score": 4008
+    },
+    {
+        "word": "shool",
+        "score": 4008
+    },
+    {
+        "word": "pocho",
+        "score": 4007
+    },
+    {
+        "word": "ariki",
+        "score": 4007
+    },
+    {
+        "word": "supes",
+        "score": 4007
+    },
+    {
+        "word": "addio",
+        "score": 4006
+    },
+    {
+        "word": "abyme",
+        "score": 4005
+    },
+    {
+        "word": "akasa",
+        "score": 4005
+    },
+    {
+        "word": "pitty",
+        "score": 4005
+    },
+    {
+        "word": "shmoe",
+        "score": 4005
+    },
+    {
+        "word": "sicht",
+        "score": 4005
+    },
+    {
+        "word": "aeaea",
+        "score": 4004
+    },
+    {
+        "word": "prett",
+        "score": 4004
+    },
+    {
+        "word": "abood",
+        "score": 4004
+    },
+    {
+        "word": "abrim",
+        "score": 4004
+    },
+    {
+        "word": "acter",
+        "score": 4004
+    },
+    {
+        "word": "afanc",
+        "score": 4004
+    },
+    {
+        "word": "arbit",
+        "score": 4004
+    },
+    {
+        "word": "phats",
+        "score": 4004
+    },
+    {
+        "word": "sarve",
+        "score": 4004
+    },
+    {
+        "word": "aglee",
+        "score": 4003
+    },
+    {
+        "word": "aroar",
+        "score": 4003
+    },
+    {
+        "word": "preso",
+        "score": 4003
+    },
+    {
+        "word": "snear",
+        "score": 4003
+    },
+    {
+        "word": "ahiya",
+        "score": 4002
+    },
+    {
+        "word": "abyde",
+        "score": 4002
+    },
+    {
+        "word": "agayn",
+        "score": 4002
+    },
+    {
+        "word": "peple",
+        "score": 4002
+    },
+    {
+        "word": "sugar",
+        "score": 3067
+    },
+    {
+        "word": "sinus",
+        "score": 3053
+    },
+    {
+        "word": "pedal",
+        "score": 3051
+    },
+    {
+        "word": "putty",
+        "score": 3049
+    },
+    {
+        "word": "pluto",
+        "score": 3048
+    },
+    {
+        "word": "attic",
+        "score": 3048
+    },
+    {
+        "word": "photo",
+        "score": 3044
+    },
+    {
+        "word": "scarp",
+        "score": 3044
+    },
+    {
+        "word": "shelf",
+        "score": 3044
+    },
+    {
+        "word": "poker",
+        "score": 3043
+    },
+    {
+        "word": "salsa",
+        "score": 3043
+    },
+    {
+        "word": "armed",
+        "score": 3042
+    },
+    {
+        "word": "salty",
+        "score": 3040
+    },
+    {
+        "word": "scare",
+        "score": 3040
+    },
+    {
+        "word": "patty",
+        "score": 3039
+    },
+    {
+        "word": "sigma",
+        "score": 3039
+    },
+    {
+        "word": "pasta",
+        "score": 3039
+    },
+    {
+        "word": "snack",
+        "score": 3038
+    },
+    {
+        "word": "aryan",
+        "score": 3037
+    },
+    {
+        "word": "along",
+        "score": 3037
+    },
+    {
+        "word": "aphid",
+        "score": 3037
+    },
+    {
+        "word": "scaly",
+        "score": 3037
+    },
+    {
+        "word": "shrug",
+        "score": 3037
+    },
+    {
+        "word": "sabre",
+        "score": 3036
+    },
+    {
+        "word": "sheik",
+        "score": 3034
+    },
+    {
+        "word": "shook",
+        "score": 3034
+    },
+    {
+        "word": "alate",
+        "score": 3032
+    },
+    {
+        "word": "scute",
+        "score": 3032
+    },
+    {
+        "word": "afoot",
+        "score": 3031
+    },
+    {
+        "word": "papaw",
+        "score": 3031
+    },
+    {
+        "word": "piggy",
+        "score": 3031
+    },
+    {
+        "word": "shill",
+        "score": 3031
+    },
+    {
+        "word": "sales",
+        "score": 3030
+    },
+    {
+        "word": "sheol",
+        "score": 3030
+    },
+    {
+        "word": "plica",
+        "score": 3030
+    },
+    {
+        "word": "servo",
+        "score": 3030
+    },
+    {
+        "word": "abaca",
+        "score": 3029
+    },
+    {
+        "word": "areca",
+        "score": 3029
+    },
+    {
+        "word": "sarin",
+        "score": 3028
+    },
+    {
+        "word": "addax",
+        "score": 3028
+    },
+    {
+        "word": "aleph",
+        "score": 3028
+    },
+    {
+        "word": "pater",
+        "score": 3028
+    },
+    {
+        "word": "sinai",
+        "score": 3027
+    },
+    {
+        "word": "parka",
+        "score": 3027
+    },
+    {
+        "word": "pommy",
+        "score": 3027
+    },
+    {
+        "word": "sower",
+        "score": 3027
+    },
+    {
+        "word": "palmy",
+        "score": 3026
+    },
+    {
+        "word": "santa",
+        "score": 3026
+    },
+    {
+        "word": "alice",
+        "score": 3025
+    },
+    {
+        "word": "sulfa",
+        "score": 3025
+    },
+    {
+        "word": "sorel",
+        "score": 3024
+    },
+    {
+        "word": "abuzz",
+        "score": 3024
+    },
+    {
+        "word": "aloes",
+        "score": 3024
+    },
+    {
+        "word": "argil",
+        "score": 3024
+    },
+    {
+        "word": "plans",
+        "score": 3024
+    },
+    {
+        "word": "polly",
+        "score": 3024
+    },
+    {
+        "word": "saury",
+        "score": 3024
+    },
+    {
+        "word": "schmo",
+        "score": 3024
+    },
+    {
+        "word": "aline",
+        "score": 3023
+    },
+    {
+        "word": "armet",
+        "score": 3023
+    },
+    {
+        "word": "asana",
+        "score": 3023
+    },
+    {
+        "word": "phono",
+        "score": 3023
+    },
+    {
+        "word": "puree",
+        "score": 3023
+    },
+    {
+        "word": "sheba",
+        "score": 3023
+    },
+    {
+        "word": "sides",
+        "score": 3023
+    },
+    {
+        "word": "adeno",
+        "score": 3022
+    },
+    {
+        "word": "soles",
+        "score": 3022
+    },
+    {
+        "word": "snead",
+        "score": 3021
+    },
+    {
+        "word": "sonde",
+        "score": 3021
+    },
+    {
+        "word": "abies",
+        "score": 3021
+    },
+    {
+        "word": "ac/dc",
+        "score": 3020
+    },
+    {
+        "word": "aided",
+        "score": 3020
+    },
+    {
+        "word": "ameer",
+        "score": 3020
+    },
+    {
+        "word": "pinny",
+        "score": 3020
+    },
+    {
+        "word": "scall",
+        "score": 3020
+    },
+    {
+        "word": "silty",
+        "score": 3020
+    },
+    {
+        "word": "pingo",
+        "score": 3019
+    },
+    {
+        "word": "sites",
+        "score": 3019
+    },
+    {
+        "word": "serra",
+        "score": 3018
+    },
+    {
+        "word": "solum",
+        "score": 3018
+    },
+    {
+        "word": "sicko",
+        "score": 3018
+    },
+    {
+        "word": "santo",
+        "score": 3017
+    },
+    {
+        "word": "platt",
+        "score": 3017
+    },
+    {
+        "word": "potch",
+        "score": 3017
+    },
+    {
+        "word": "pried",
+        "score": 3017
+    },
+    {
+        "word": "sault",
+        "score": 3017
+    },
+    {
+        "word": "sakai",
+        "score": 3016
+    },
+    {
+        "word": "apert",
+        "score": 3016
+    },
+    {
+        "word": "aping",
+        "score": 3016
+    },
+    {
+        "word": "pleas",
+        "score": 3016
+    },
+    {
+        "word": "sculp",
+        "score": 3016
+    },
+    {
+        "word": "shtup",
+        "score": 3016
+    },
+    {
+        "word": "sneck",
+        "score": 3016
+    },
+    {
+        "word": "sophy",
+        "score": 3016
+    },
+    {
+        "word": "arret",
+        "score": 3015
+    },
+    {
+        "word": "sammy",
+        "score": 3015
+    },
+    {
+        "word": "alfet",
+        "score": 3014
+    },
+    {
+        "word": "softa",
+        "score": 3014
+    },
+    {
+        "word": "annan",
+        "score": 3013
+    },
+    {
+        "word": "pandy",
+        "score": 3013
+    },
+    {
+        "word": "peron",
+        "score": 3013
+    },
+    {
+        "word": "abear",
+        "score": 3013
+    },
+    {
+        "word": "arame",
+        "score": 3013
+    },
+    {
+        "word": "atole",
+        "score": 3013
+    },
+    {
+        "word": "poopy",
+        "score": 3013
+    },
+    {
+        "word": "puker",
+        "score": 3013
+    },
+    {
+        "word": "scran",
+        "score": 3013
+    },
+    {
+        "word": "shoyu",
+        "score": 3013
+    },
+    {
+        "word": "allan",
+        "score": 3012
+    },
+    {
+        "word": "pluff",
+        "score": 3012
+    },
+    {
+        "word": "shrag",
+        "score": 3012
+    },
+    {
+        "word": "socko",
+        "score": 3012
+    },
+    {
+        "word": "siver",
+        "score": 3011
+    },
+    {
+        "word": "snobs",
+        "score": 3011
+    },
+    {
+        "word": "aleck",
+        "score": 3011
+    },
+    {
+        "word": "almah",
+        "score": 3011
+    },
+    {
+        "word": "anigh",
+        "score": 3011
+    },
+    {
+        "word": "arefy",
+        "score": 3011
+    },
+    {
+        "word": "pheer",
+        "score": 3011
+    },
+    {
+        "word": "pirai",
+        "score": 3011
+    },
+    {
+        "word": "plotz",
+        "score": 3011
+    },
+    {
+        "word": "pooja",
+        "score": 3011
+    },
+    {
+        "word": "sarse",
+        "score": 3011
+    },
+    {
+        "word": "shily",
+        "score": 3011
+    },
+    {
+        "word": "suage",
+        "score": 3011
+    },
+    {
+        "word": "aetna",
+        "score": 3010
+    },
+    {
+        "word": "atari",
+        "score": 3010
+    },
+    {
+        "word": "arear",
+        "score": 3010
+    },
+    {
+        "word": "pacey",
+        "score": 3010
+    },
+    {
+        "word": "pling",
+        "score": 3010
+    },
+    {
+        "word": "poofy",
+        "score": 3010
+    },
+    {
+        "word": "sherm",
+        "score": 3010
+    },
+    {
+        "word": "sidhe",
+        "score": 3010
+    },
+    {
+        "word": "suist",
+        "score": 3010
+    },
+    {
+        "word": "abime",
+        "score": 3009
+    },
+    {
+        "word": "absis",
+        "score": 3009
+    },
+    {
+        "word": "alloo",
+        "score": 3009
+    },
+    {
+        "word": "pagus",
+        "score": 3009
+    },
+    {
+        "word": "pareo",
+        "score": 3009
+    },
+    {
+        "word": "plene",
+        "score": 3009
+    },
+    {
+        "word": "porny",
+        "score": 3009
+    },
+    {
+        "word": "psion",
+        "score": 3009
+    },
+    {
+        "word": "sowce",
+        "score": 3009
+    },
+    {
+        "word": "astra",
+        "score": 3008
+    },
+    {
+        "word": "aberr",
+        "score": 3008
+    },
+    {
+        "word": "adlib",
+        "score": 3008
+    },
+    {
+        "word": "preve",
+        "score": 3008
+    },
+    {
+        "word": "sheld",
+        "score": 3008
+    },
+    {
+        "word": "shero",
+        "score": 3008
+    },
+    {
+        "word": "shoar",
+        "score": 3008
+    },
+    {
+        "word": "soral",
+        "score": 3008
+    },
+    {
+        "word": "sothe",
+        "score": 3008
+    },
+    {
+        "word": "aegle",
+        "score": 3007
+    },
+    {
+        "word": "arkie",
+        "score": 3007
+    },
+    {
+        "word": "acher",
+        "score": 3007
+    },
+    {
+        "word": "airth",
+        "score": 3007
+    },
+    {
+        "word": "anito",
+        "score": 3007
+    },
+    {
+        "word": "sarma",
+        "score": 3006
+    },
+    {
+        "word": "saala",
+        "score": 3006
+    },
+    {
+        "word": "shojo",
+        "score": 3006
+    },
+    {
+        "word": "soule",
+        "score": 3006
+    },
+    {
+        "word": "ankou",
+        "score": 3005
+    },
+    {
+        "word": "pirot",
+        "score": 3005
+    },
+    {
+        "word": "salak",
+        "score": 3005
+    },
+    {
+        "word": "autum",
+        "score": 3005
+    },
+    {
+        "word": "pudor",
+        "score": 3005
+    },
+    {
+        "word": "pzazz",
+        "score": 3005
+    },
+    {
+        "word": "scism",
+        "score": 3005
+    },
+    {
+        "word": "anthe",
+        "score": 3004
+    },
+    {
+        "word": "aborn",
+        "score": 3004
+    },
+    {
+        "word": "absit",
+        "score": 3004
+    },
+    {
+        "word": "adlay",
+        "score": 3004
+    },
+    {
+        "word": "amand",
+        "score": 3004
+    },
+    {
+        "word": "ascar",
+        "score": 3004
+    },
+    {
+        "word": "parly",
+        "score": 3004
+    },
+    {
+        "word": "preed",
+        "score": 3004
+    },
+    {
+        "word": "snizz",
+        "score": 3004
+    },
+    {
+        "word": "sorra",
+        "score": 3004
+    },
+    {
+        "word": "panin",
+        "score": 3003
+    },
+    {
+        "word": "acada",
+        "score": 3003
+    },
+    {
+        "word": "agnos",
+        "score": 3003
+    },
+    {
+        "word": "allée",
+        "score": 3003
+    },
+    {
+        "word": "arnis",
+        "score": 3003
+    },
+    {
+        "word": "paich",
+        "score": 3003
+    },
+    {
+        "word": "snart",
+        "score": 3003
+    },
+    {
+        "word": "soror",
+        "score": 3003
+    },
+    {
+        "word": "ass'n",
+        "score": 3002
+    },
+    {
+        "word": "alfiz",
+        "score": 3002
+    },
+    {
+        "word": "annet",
+        "score": 3002
+    },
+    {
+        "word": "pauce",
+        "score": 3002
+    },
+    {
+        "word": "puswa",
+        "score": 3002
+    },
+    {
+        "word": "sagey",
+        "score": 3002
+    },
+    {
+        "word": "shehe",
+        "score": 3002
+    },
+    {
+        "word": "shewe",
+        "score": 3002
+    },
+    {
+        "word": "arch.",
+        "score": 3001
+    },
+    {
+        "word": "scyon",
+        "score": 3001
+    },
+    {
+        "word": "sunly",
+        "score": 3001
+    },
+    {
+        "word": "anode",
+        "score": 2058
+    },
+    {
+        "word": "polyp",
+        "score": 2054
+    },
+    {
+        "word": "penny",
+        "score": 2053
+    },
+    {
+        "word": "arrow",
+        "score": 2051
+    },
+    {
+        "word": "abort",
+        "score": 2048
+    },
+    {
+        "word": "algae",
+        "score": 2048
+    },
+    {
+        "word": "snail",
+        "score": 2048
+    },
+    {
+        "word": "aries",
+        "score": 2046
+    },
+    {
+        "word": "shale",
+        "score": 2046
+    },
+    {
+        "word": "poppy",
+        "score": 2045
+    },
+    {
+        "word": "panda",
+        "score": 2044
+    },
+    {
+        "word": "phone",
+        "score": 2043
+    },
+    {
+        "word": "sonar",
+        "score": 2042
+    },
+    {
+        "word": "snore",
+        "score": 2041
+    },
+    {
+        "word": "pants",
+        "score": 2040
+    },
+    {
+        "word": "shirt",
+        "score": 2040
+    },
+    {
+        "word": "piles",
+        "score": 2039
+    },
+    {
+        "word": "polka",
+        "score": 2038
+    },
+    {
+        "word": "allah",
+        "score": 2038
+    },
+    {
+        "word": "apnea",
+        "score": 2037
+    },
+    {
+        "word": "phlox",
+        "score": 2036
+    },
+    {
+        "word": "prong",
+        "score": 2036
+    },
+    {
+        "word": "pubes",
+        "score": 2036
+    },
+    {
+        "word": "plato",
+        "score": 2035
+    },
+    {
+        "word": "ameba",
+        "score": 2034
+    },
+    {
+        "word": "anime",
+        "score": 2034
+    },
+    {
+        "word": "snowy",
+        "score": 2034
+    },
+    {
+        "word": "soapy",
+        "score": 2034
+    },
+    {
+        "word": "papal",
+        "score": 2033
+    },
+    {
+        "word": "playa",
+        "score": 2033
+    },
+    {
+        "word": "sabot",
+        "score": 2033
+    },
+    {
+        "word": "asean",
+        "score": 2032
+    },
+    {
+        "word": "aztec",
+        "score": 2032
+    },
+    {
+        "word": "sooty",
+        "score": 2032
+    },
+    {
+        "word": "amigo",
+        "score": 2031
+    },
+    {
+        "word": "platy",
+        "score": 2031
+    },
+    {
+        "word": "sioux",
+        "score": 2031
+    },
+    {
+        "word": "amish",
+        "score": 2030
+    },
+    {
+        "word": "salem",
+        "score": 2030
+    },
+    {
+        "word": "samoa",
+        "score": 2030
+    },
+    {
+        "word": "silex",
+        "score": 2030
+    },
+    {
+        "word": "amide",
+        "score": 2030
+    },
+    {
+        "word": "peeve",
+        "score": 2030
+    },
+    {
+        "word": "plasm",
+        "score": 2030
+    },
+    {
+        "word": "props",
+        "score": 2030
+    },
+    {
+        "word": "psoas",
+        "score": 2030
+    },
+    {
+        "word": "schwa",
+        "score": 2030
+    },
+    {
+        "word": "shako",
+        "score": 2030
+    },
+    {
+        "word": "shone",
+        "score": 2030
+    },
+    {
+        "word": "aesop",
+        "score": 2029
+    },
+    {
+        "word": "sabin",
+        "score": 2029
+    },
+    {
+        "word": "panto",
+        "score": 2029
+    },
+    {
+        "word": "primo",
+        "score": 2029
+    },
+    {
+        "word": "socks",
+        "score": 2029
+    },
+    {
+        "word": "sopor",
+        "score": 2029
+    },
+    {
+        "word": "sonny",
+        "score": 2028
+    },
+    {
+        "word": "actin",
+        "score": 2028
+    }
+]
