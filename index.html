@@ -163,7 +163,7 @@
                     const keyboardLayout=["QWERTYUIOP","ASDFGHJKL","ZXCVBNM"];
                     for(let row of keyboardLayout){
                         for(let char of row){
-                            document.write(`<div class="keyletter">${char}</div>`);
+                            document.write(`<div class="keyletter ${char}">${char}</div>`);
                         }
                     }
                 </script>
@@ -208,6 +208,7 @@
                                     else
                                     {
                                         letter[(5*index)+y].style.backgroundColor = "#888888";
+                                        document.getElementsByClassName(word.charAt(y))[0].style.backgroundColor = "#888888";
                                     }
                                     if(++y===5){
                                         if(correct===5)
